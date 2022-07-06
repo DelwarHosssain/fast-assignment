@@ -1,0 +1,37 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.main-content{
+    background-image: url(/fast-assignment/images/donation3.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
+    background-size: 100%;
+    
+}
+.word-content{
+    padding:200px 300px;     
+}
+.main-word{
+    font-weight: 700;
+    font-size: 65px;
+    color: white;
+    text-align: center;
+    
+}
+.pra{
+    color: white;
+}
+.button1{
+    margin-left: 250px;
+    margin-top:50px ;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: #FF5959;
+    text-decoration: none;
+    font-weight: 700;
+}
