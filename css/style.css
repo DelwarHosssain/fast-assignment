@@ -127,3 +127,39 @@
 .map{
     text-align: center;
 }
+.Updates{
+    text-align: center;
+    margin: 25px;
+    padding: 0 400px;
+}
+.Updates-head{
+    font-size: 45px;
+}
+.email-bg{
+    background-color: #FFF4D6;
+    width: 809px;
+    height: 150px;
+    margin: 0 0 50px 280px;
+    display: flex;
+
+}
+.email{
+    padding:70px 0 0 280px;
+    display: flex;
+    border: none;
+}
+#email{
+    padding: 8px;
+}
+.button3{
+    padding: 10px;
+}
+.button3{
+    color: white;
+    background-color: #FF5959;
+    font-weight: 700;
+    border: none;
+}
+input{
+    background-color: #D9D9D9;
+}
