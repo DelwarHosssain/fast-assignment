@@ -86,3 +86,35 @@
     font-weight: 700;
 
 }
+.grit-head{
+    margin: 100px 400px 0 400px;
+    text-align: center;
+    ;
+}
+.main-grit{
+    margin:15px 250px 0 250px;
+    display: flex;
+}
+.grit1{
+    background-color: #EDF5F6;
+    padding: 30px 30px;
+    margin:7px ;
+    border-radius: 5px;
+}
+.grit2{
+    background-color: #FFEEEE;
+    padding: 30px 30px;
+    margin:7px ;
+    border-radius: 5px;
+}
+.grit3{
+    background-color: #FFF4D6;
+    padding: 30px 30px;
+    margin:7px ;
+    border-radius: 5px;
+}
+.head-padding{
+    margin: 15px 0 15px 0;
+    font-weight: 700;
+
+}
